@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/SrUve91/LIFEtonik/issues"
   },
-  "homepage": "https://github.com/SrUve91/LIFEtonik#readme"
+  "homepage": "https://github.com/SrUve91/LIFEtonik#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
 }
