@@ -1,0 +1,19 @@
+{
+  "name": "lifetonik",
+  "version": "1.0.0",
+  "description": "Prototype of new exercise and diet web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrUve91/LIFEtonik.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SrUve91/LIFEtonik/issues"
+  },
+  "homepage": "https://github.com/SrUve91/LIFEtonik#readme"
+}
